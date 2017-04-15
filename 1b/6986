@@ -1,63 +1,61 @@
-	{img:0_cover1.jpg}
-
 >	{title:34355}
-:49	{img:1_izobretenie.png}
+:52	{img:sbogom_na_talasymite_i_drugi_prikazki_izobretenie.png}
 >>	{file:34355}
 
 >	{title:34356}
-:19	{img:2_torba_laji.png}
+:23	{img:sbogom_na_talasymite_i_drugi_prikazki_torba_lyzhi.png}
 >>	{file:34356}
 
 >	{title:34357}
-	{img:3_chutura.png|-left}
-:16	{img:4_baba_bie_mlyako.png|-right}
+:9	{img:sbogom_na_talasymite_i_drugi_prikazki_chutura.png}
+:12	{img:sbogom_na_talasymite_i_drugi_prikazki_baba_bie_mljako.png}
+:28	{img:sbogom_na_talasymite_i_drugi_prikazki_velikani_stara_planina.png}
 >>	{file:34357}
-	{img:5_velikani_stara_planina.png}
 
 >	{title:34358}
-:19	{img:6_baba_blajka.png}
+:9	{img:sbogom_na_talasymite_i_drugi_prikazki_baba_blazhka.png}
 >>	{file:34358}
 
 >	{title:34359}
-:22	{img:7_pile.png|-left}
+:14	{img:sbogom_na_talasymite_i_drugi_prikazki_pile.png}
 >>	{file:34359}
 
 >	{title:34360}
-:38	{img:8_starata_kola.png}
+:40	{img:sbogom_na_talasymite_i_drugi_prikazki_starata_kola.png}
 >>	{file:34360}
 
 >	{title:34361}
-:21	{img:9_maystor_trichko.png}
+:16	{img:sbogom_na_talasymite_i_drugi_prikazki_majstor_trichko.png}
 >>	{file:34361}
 
 >	{title:34362}
-:12	{img:10_vazdushen_pirat.png}
+:24	{img:sbogom_na_talasymite_i_drugi_prikazki_vyzdushen_pirat.png}
 >>	{file:34362}
 
 >	{title:34363}
 >>	{file:34363}
-	{img:11_tuba_s_nafta.png}
+	{img:sbogom_na_talasymite_i_drugi_prikazki_tuba_s_nafta.png}
 
 >	{title:34364}
-:9	{img:12_kralyat_sluntze.png|-right}
+:5	{img:sbogom_na_talasymite_i_drugi_prikazki_kraljat_slyntse.png}
 >>	{file:34364}
 
 >	{title:34365}
-:6s	{img:13_hvarchilo.png|-left}
+:32	{img:sbogom_na_talasymite_i_drugi_prikazki_hvyrchilo.png}
 >>	{file:34365}
 
 >	{title:34366}
-:8	{img:14_zarko.png}
+:52	{img:sbogom_na_talasymite_i_drugi_prikazki_zarko.png}
 >>	{file:34366}
 
 >	{title:34367}
-:17	{img:15_cherteji.png|-left}
+:18	{img:sbogom_na_talasymite_i_drugi_prikazki_chertezhi.png}
 >>	{file:34367}
 
 >	{title:34368}
-:22	{img:16_violine.png|-left}
-:42	{img:17_karakondjo.png|-left}
-:68	{img:18_dulga_opashka.png|-left}
-:200	{img:19_susedka.png}
-:608	{img:20_talasumi_na_pokriva.png}
+:21	{img:sbogom_na_talasymite_i_drugi_prikazki_violine.png}
+:36	{img:sbogom_na_talasymite_i_drugi_prikazki_karakondzho.png}
+:50	{img:sbogom_na_talasymite_i_drugi_prikazki_dylga_opashka.png}
+:347	{img:sbogom_na_talasymite_i_drugi_prikazki_susedka.png}
+:407	{img:sbogom_na_talasymite_i_drugi_prikazki_talasymi_na_pokriva.png}
 >>	{file:34368}
