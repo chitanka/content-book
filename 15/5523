@@ -1,11 +1,22 @@
 	{img:emil_verharn.png}
 
->	{text:47303}
+>	{title:47303}
+:7	{img:dobra_smyrt.png}
+>>	{file:47303}
 
->	{text:47304}
+>	{title:47304}
+:9	{img:na_selo.png}
+>>	{file:47304}
 
->	{text:47305}
+>	{title:47305}
+	{img:opdorskija_panair_1.png}
+:18	{img:opdorskija_panair_2.png}
+>>	{file:47305}
 
->	{text:47306}
+>	{title:47306}
+>>	{file:47306}
+	{img:trite_prijatelki.png}
 
->	{text:47307}
+>	{title:47307}
+:30	{img:edna_nosht.png}
+>>	{file:47307}
